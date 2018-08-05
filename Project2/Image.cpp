@@ -52,7 +52,7 @@ void Image::LoadImageFile(string fileName)
 
 void Image::WriteImage(string outFileName)
 {
-	string filePath = "output/part1test2.tga";
+	string filePath = "output/part4testing.tga";
 
 	fstream file(filePath, ios_base::binary | ios_base::out);
 
